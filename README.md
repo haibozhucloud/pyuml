@@ -21,3 +21,6 @@ Object-oriented packages graphviz in python. Generate uml chart by coding， wit
 ## Usage:
 
 + Please reference the demo in uml.py
+
+## Demo
+![avatar](https://github.com/haibozhucloud/pyuml/blob/master/uml-demo.gv.pdf)
