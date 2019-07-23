@@ -1,6 +1,5 @@
 # pyuml
-Object-oriented packages graphviz in python. Generate uml chart by coding.
-Show various relationships of classes in specified colors and labels in the generated charts.
+Object-oriented packages graphviz in python. Generate uml chart by coding， with labelling and showing various relationships of classes in specified colors on the generated charts.
 
 ## depandency:
 
@@ -10,8 +9,6 @@ Show various relationships of classes in specified colors and labels in the gene
 ## Installation:
 
 + virtualenv venv --python=/usr/bin/python3
-+  "or"
-+ virtualenv venv 
   
 + pip install graphviz
 
