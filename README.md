@@ -1,5 +1,6 @@
 # pyuml
 Object-oriented packages graphviz in python. Generate uml chart by coding.
+Show various relationships of classes in specified colors and labels in the generated charts.
 
 Installation:
 
@@ -13,4 +14,4 @@ Quick start
   python uml.py
   
 Usage:
-  Follow the demo in uml.py
+  Please reference the demo in uml.py
